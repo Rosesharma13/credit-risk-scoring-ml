@@ -111,5 +111,5 @@ The confusion matrix shows the model's classification performance and error dist
 - Built as part of Machine Learning internship project
 
 ## 👩‍💻 Author
-**Rose Sharma** | CodeAlpha ML Internship
+**Rose Sharma** 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rose-sharma13)
