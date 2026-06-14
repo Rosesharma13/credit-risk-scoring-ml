@@ -1,5 +1,5 @@
 # 💳 Credit Scoring Model
-
+Credit risk classification using XGBoost and scikit-learn — EDA, model comparison, Random Forest analysis.
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -108,7 +108,6 @@ The confusion matrix shows the model's classification performance and error dist
 
 ## 🙌 Acknowledgements
 - Dataset source: Kaggle / UCI Repository
-- Built as part of Machine Learning internship project
 
 ## 👩‍💻 Author
 **Rose Sharma** 
